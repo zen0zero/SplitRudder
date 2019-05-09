@@ -18,3 +18,7 @@ and outputs inverse PWM signals (1000->2000 usecs on one side, 2000->1000 usecs 
 As they say, it works for me, YMMV, use at your own risk.
 
 Have fun and stay away from propellers :)
+
+PS: to test and design the mechanical part, I used and strongly recommend [Linkage](http://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/). Will upload my test file as soon as I verify it.
+
+Youtube videos coming shortly
